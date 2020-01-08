@@ -1,0 +1,124 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(5673da52c98bb6cb33ada5aaf649703e.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+* {
+  box-sizing: border-box; }
+
+body {
+  padding: 0;
+  margin: 0;
+  font-size: 16px; }
+
+header {
+  background-image: url(730a32d0b230b42b359728450eddddd4.jpg);
+  opacity: 0.7;
+  font-family: 'Lobster', cursive;
+  font-size: larger;
+  width: 100%;
+  height: 120px;
+  margin: 0px;
+  padding: 20px;
+  color: white;
+  font-size: 36px;
+  text-align: center; }
+
+.container {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 18px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%; }
+
+fieldset {
+  margin-left: 20%;
+  width: 70%;
+  font-size: 1em;
+  padding: 0.5em;
+  border: none; }
+
+label, input, button {
+  font-size: inherit;
+  padding: 0.2em;
+  margin: 0.1em 0.2em;
+  -moz-box-sizing: content-box;
+  /* or `border-box` */
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box; }
+
+input {
+  width: 20%; }
+
+button {
+  background-color: #f26c4f;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-left: -8px;
+  padding: 0.3em; }
+
+.div1 {
+  width: 40%; }
+
+.div3 {
+  width: 40%; }
+
+div2 {
+  width: 20%; }
+
+h4 {
+  color: #db3712;
+  font-weight: 100px; }
+
+article {
+  text-align: center;
+  border-radius: 15px;
+  width: 50%;
+  min-width: 40%;
+  margin-left: 20%;
+  font-family: 'Indie Flower', cursive; }
+
+.article1 {
+  background-color: #e0c4c4; }
+
+.article2 {
+  background-color: #f5f5b1; }
+
+.article3 {
+  background-color: #f5e1df; }
+
+.article4 {
+  background-color: #e7ddf0; }
+
+.article5 {
+  background-color: #dfeedd; }
+
+.article6 {
+  background-color: #f5f4d2; }
+
+.article6 {
+  background-color: #d9edf1; }
+
+.article7 {
+  background-color: #e0c4c4; }
+
+.article8 {
+  background-color: #f3f3c7; }
+
+.article9 {
+  background-color: #f1c4bf; }
+
+.article10 {
+  background-color: #c59ceb; }
+
+footer {
+  position: fixed;
+  bottom: 0;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 18px; }
+
+
+/*# sourceMappingURL=styles.css.map*/
